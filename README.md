@@ -23,6 +23,7 @@ Registro de Datos: El programa te pide escribir el nombre del estudiante y luego
 
 
 Manejo de FormatException: Al ingresar letras en vez de números, double.Parse() activa el error dentro del try. El programa lo frena con el catch y, en lugar de cerrarse, muestra un aviso en la consola indicando que solo se permiten números.
+
 ![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/blob/main/2.png?raw=true)
 
 
