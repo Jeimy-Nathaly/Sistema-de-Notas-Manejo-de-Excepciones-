@@ -22,7 +22,7 @@ Registro de Datos: El programa te pide escribir el nombre del estudiante y luego
 ![imagen alt](https://raw.githubusercontent.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/e4b4080eb5931858588131a76d63b9f68cea6d8c/4.png)
 
 
-Control de letras o espacios vacíos (FormatException): Si el usuario intenta poner letras en vez de números, el código lo atrapa al usar double.Parse() dentro del try. En vez de cerrarse con error, muestra un cuadro personalizado que avisa que solo se permiten números.ca e informa al usuario mediante una alerta visual controlada.
+Manejo de FormatException: Al ingresar letras en vez de números, double.Parse() activa el error dentro del try. El programa lo frena con el catch y, en lugar de cerrarse, muestra un aviso en la consola indicando que solo se permiten números.
 ![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/blob/main/2.png?raw=true)
 
 
