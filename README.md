@@ -18,23 +18,22 @@ La aplicación fue desarrollada como una actividad práctica en el aula para el 
 
 ### Funcionalidades de la Aplicación
 
-Registro de Datos: Solicita de forma interactiva el nombre del estudiante y su calificación final.
-![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/commit/41475ba2f3e20b1173d1d86e85db96346f759fe6)
+Registro de Datos: El programa te pide escribir el nombre del estudiante y luego su nota.
+![imagen alt](https://raw.githubusercontent.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/e4b4080eb5931858588131a76d63b9f68cea6d8c/4.png)
 
 
-Validación de Formato (FormatException): Utiliza el método double.Parse() dentro de un bloque try. Si el usuario introduce letras o caracteres especiales no numéricos, el sistema captura el error de forma automática e informa al usuario mediante una alerta visual controlada.
+Control de letras o espacios vacíos (FormatException): Si el usuario intenta poner letras en vez de números, el código lo atrapa al usar double.Parse() dentro del try. En vez de cerrarse con error, muestra un cuadro personalizado que avisa que solo se permiten números.ca e informa al usuario mediante una alerta visual controlada.
+![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/blob/main/2.png?raw=true)
 
-Validación de Rango Lógico: El programa evalúa mediante una estructura condicional (if) que la nota se encuentre estrictamente entre 0 y 100. En caso de ingresar un valor fuera de rango, se despliega una interfaz de error crítico.
 
-Cálculo de Estado: Si los datos ingresados son válidos, determina si el alumno aprueba (nota mayor o igual a 70) o si necesita reforzamiento (reprueba), mostrando un sello gráfico personalizado.
+Control de notas falsas: El programa usa un if para revisar que la nota esté entre 0 y 100. Si pones un número fuera de ese rango (como 150 o un número negativo), salta un aviso de error en la pantalla.
+![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/blob/main/3.png?raw=true)
 
-Garantía de Cierre de Procesos (finally): Implementa un bloque finally que asegura la conclusión del flujo del programa y notifica la finalización de la ejecución en cualquier escenario.
+Resultado del estudiante: Si la nota es correcta y es de 70 o más, calcula que está aprobado y pinta un sello de felicidades. Si es menor de 70, sale como reprobado y muestra el cartel de que necesita reforzamiento.
+![imagen alt](https://raw.githubusercontent.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/41475ba2f3e20b1173d1d86e85db96346f759fe6/1.pngG)
 
-Estructura del Código Técnico
-
-Bloque principal try-catch-finally: Controla la entrada y el procesamiento de los datos de la clase principal de forma segura para evitar interrupciones abruptas en la terminal.
-
-Funciones de Dibujo: Métodos auxiliares estructurados independientes (DibujarCabecera, DibujarSelloAprobado, DibujarSelloReprobado, DibujarErrorRange, DibujarErrorFormat, DibujarErrorUnexpected) encargados de pintar la interfaz mediante el uso de códigos de escape ANSI y bordes estructurados.
+Garantía de Cierre de Procesos (finally): Se utilizo un bloque finally que asegura  la finalización del programa.
+![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/blob/main/5.png?raw=true)
 
 ### Contexto Académico
 
