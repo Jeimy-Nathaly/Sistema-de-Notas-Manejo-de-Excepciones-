@@ -27,6 +27,7 @@ Manejo de FormatException: Al ingresar letras en vez de números, double.Parse()
 
 
 Control de notas falsas: El programa usa un if para revisar que la nota esté entre 0 y 100. Si pones un número fuera de ese rango (como 150 o un número negativo), salta un aviso de error en la pantalla.
+
 ![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/blob/main/3.png?raw=true)
 
 Resultado del estudiante: Si la nota es correcta y es de 70 o más, calcula que está aprobado y pinta un sello de felicidades. Si es menor de 70, sale como reprobado y muestra el cartel de que necesita reforzamiento.
