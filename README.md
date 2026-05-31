@@ -32,7 +32,7 @@ Control de notas falsas: El programa usa un if para revisar que la nota esté en
 
 Resultado del estudiante: Si la nota es correcta y es de 70 o más, calcula que está aprobado y pinta un sello de felicidades. Si es menor de 70, sale como reprobado y muestra el cartel de que necesita reforzamiento.
 
-![imagen alt](https://raw.githubusercontent.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/41475ba2f3e20b1173d1d86e85db96346f759fe6/1.pngG)
+![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/blob/main/1.png?raw=true)
 
 Garantía de Cierre de Procesos (finally): Se utilizo un bloque finally que asegura  la finalización del programa.
 ![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/blob/main/5.png?raw=true)
