@@ -19,6 +19,8 @@ La aplicación fue desarrollada como una actividad práctica en el aula para el 
 ### Funcionalidades de la Aplicación
 
 Registro de Datos: Solicita de forma interactiva el nombre del estudiante y su calificación final.
+![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/commit/41475ba2f3e20b1173d1d86e85db96346f759fe6)
+
 
 Validación de Formato (FormatException): Utiliza el método double.Parse() dentro de un bloque try. Si el usuario introduce letras o caracteres especiales no numéricos, el sistema captura el error de forma automática e informa al usuario mediante una alerta visual controlada.
 
