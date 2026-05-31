@@ -36,6 +36,7 @@ Resultado del estudiante: Si la nota es correcta y es de 70 o más, calcula que 
 ![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/blob/main/1.png?raw=true)
 
 Garantía de Cierre de Procesos (finally): Garantiza el cierre ordenado de la aplicación en cualquier escenario de ejecución mediante el uso del bloque finally.
+
 ![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/blob/main/5.png?raw=true)
 
 ### Contexto Académico
