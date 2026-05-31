@@ -6,8 +6,6 @@ Sistema de Notas (Manejo de Excepciones)
 ### Descripción
 Este proyecto es una aplicación de consola desarrollada en C# que simula un sistema de registro de calificaciones para estudiantes. El objetivo principal es demostrar el uso correcto del manejo de excepciones mediante bloques try-catch-finally, validando que las entradas del usuario tengan el formato correcto y se encuentren dentro del rango permitido (0 a 100).
 
-La aplicación fue desarrollada como una actividad práctica en el aula para el módulo formativo correspondiente.
-
 ### Tecnologías Utilizadas
 
 - Lenguaje: C# (.NET 6.0+)
