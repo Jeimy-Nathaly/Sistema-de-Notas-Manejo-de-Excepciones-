@@ -1,6 +1,6 @@
-##### ✨ PLANTILLA README – GitHub ✨
+### ✨ PLANTILLA README – GitHub ✨
 
-##### Nombre del Proyecto:
+#####  Nombre del Proyecto:
 Sistema de Notas (Manejo de Excepciones)
 
 ##### Descripción
