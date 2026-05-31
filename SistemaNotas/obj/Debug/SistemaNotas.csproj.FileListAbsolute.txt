@@ -1,0 +1,7 @@
+C:\Users\jeimy\Documents\ProyectosC#\SistemaNotas\SistemaNotas\bin\Debug\SistemaNotas.exe.config
+C:\Users\jeimy\Documents\ProyectosC#\SistemaNotas\SistemaNotas\bin\Debug\SistemaNotas.exe
+C:\Users\jeimy\Documents\ProyectosC#\SistemaNotas\SistemaNotas\bin\Debug\SistemaNotas.pdb
+C:\Users\jeimy\Documents\ProyectosC#\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.csproj.AssemblyReference.cache
+C:\Users\jeimy\Documents\ProyectosC#\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.csproj.CoreCompileInputs.cache
+C:\Users\jeimy\Documents\ProyectosC#\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.exe
+C:\Users\jeimy\Documents\ProyectosC#\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.pdb
