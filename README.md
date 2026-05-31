@@ -1,9 +1,9 @@
-### ✨ PLANTILLA README – GitHub ✨
+## ✨ PLANTILLA README – GitHub ✨
 
-####  Nombre del Proyecto:
+###  Nombre del Proyecto:
 Sistema de Notas (Manejo de Excepciones)
 
-#### Descripción
+### Descripción
 Este proyecto es una aplicación de consola desarrollada en C# que simula un sistema de registro de calificaciones para estudiantes. El objetivo principal es demostrar el uso correcto del manejo de excepciones mediante bloques try-catch-finally, validando que las entradas del usuario tengan el formato correcto y se encuentren dentro del rango permitido (0 a 100).
 
 La aplicación fue desarrollada como una actividad práctica en el aula para el módulo formativo correspondiente.
@@ -35,7 +35,7 @@ Resultado del estudiante: Si la nota es correcta y es de 70 o más, calcula que 
 
 ![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/blob/main/1.png?raw=true)
 
-Garantía de Cierre de Procesos (finally): Se utilizo un bloque finally que asegura  la finalización del programa.
+Garantía de Cierre de Procesos (finally): Garantiza el cierre ordenado de la aplicación en cualquier escenario de ejecución mediante el uso del bloque finally.
 ![imagen alt](https://github.com/Jeimy-Nathaly/Sistema-de-Notas-Manejo-de-Excepciones-/blob/main/5.png?raw=true)
 
 ### Contexto Académico
